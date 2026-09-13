@@ -72,8 +72,8 @@ markets are tightest.
 
 ## Data
 
-- 10-year constant maturity Treasury yield — FRED, series `DGS10`
-- 10-year Treasury note future — Yahoo Finance, `ZN=F`
+- 10-year constant maturity Treasury yield : FRED, series `DGS10`
+- 10-year Treasury note future : Yahoo Finance, `ZN=F`
 
 Both free and publicly available. No proprietary data is used.
 
@@ -110,4 +110,4 @@ Open `basis_margin.ipynb` and run all cells. Data is downloaded at runtime.
 
 ## Author
 
-Sofya — École Polytechnique
+Sofya Pauzin, École Polytechnique
