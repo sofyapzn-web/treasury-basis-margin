@@ -66,9 +66,9 @@ A position that has not changed at all can therefore face a margin call
 approaching double the previous day's requirement, precisely when funding
 markets are tightest.
 
-![margin path](figures/margin_path.png)
+![margin path](margin_path.png)
 
-![daily P&L](figures/pnl.png)
+![daily P&L](pnl.png)
 
 ## Data
 
